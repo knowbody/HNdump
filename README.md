@@ -14,7 +14,7 @@ Each JSON file contains all stories which landed on the front page in the given 
 
 The single story is represented in this format:
 
-```
+```json
 {
   "date": 1428277552,
   "homepage": false,
@@ -40,4 +40,4 @@ Main reason why this repo exists, because I was thinking by publishing the way y
 could be harmful for the page, so instead of that you can just get the data from here. Although full credit for the data should go to Wayne.
 
 
-### Feel free to contribute / update this repo with a new data
+Feel free to contribute / update this repo with a new data
